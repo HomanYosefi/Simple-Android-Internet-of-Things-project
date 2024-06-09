@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">HSport</string>
+    <string name="home">داشبورد</string>
+    <string name="account">بیشتر</string>
+    <string name="location">مکان</string>
+    <string name="setting">تنظیمات</string>
 </resources>
